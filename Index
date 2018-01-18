@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>  
   <head>
-    <title>Min første html side</title>
+    <title>Timeplan</title>
 	<meta charset=”utf-8">
           <link rel="stylesheet" type="text/css" href="style.css">
  </head>
   <body>
-    <h1><u>Her er overskriften</u></h1>
+    <h1><u>Oppdatert timeplan</u></h1>
 <!--Teksten på siden-->
 	<p><b>Teksten kommer her.</b><br> 
 	Og her har vi enda mer tekst.</p>
